@@ -73,7 +73,7 @@
       <link href="/2022/03/23/%E7%AC%AC%E4%B9%9D%E7%BB%84%E9%A1%B9%E7%9B%AE/"/>
       <url>/2022/03/23/%E7%AC%AC%E4%B9%9D%E7%BB%84%E9%A1%B9%E7%9B%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="第九组主题"><a href="#第九组主题" class="headerlink" title="第九组主题"></a>第九组主题</h1><ul><li>领域：合成孔径雷达图像变化检测</li><li>任务：孪生网络</li><li>目标：图像变化检测</li></ul><h1 id="小组成员"><a href="#小组成员" class="headerlink" title="小组成员"></a>小组成员</h1><ul><li>刘林</li><li>潘灿坤</li><li>雷雨诺<h3 id="组员照片"><a href="#组员照片" class="headerlink" title="组员照片"></a>组员照片</h3></li></ul><hr><h1 id="项目进度"><a href="#项目进度" class="headerlink" title="项目进度"></a>项目进度</h1><h2 id="第四周"><a href="#第四周" class="headerlink" title="第四周"></a>第四周</h2><h2 id="第五周"><a href="#第五周" class="headerlink" title="第五周"></a>第五周</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="第九组主题"><a href="#第九组主题" class="headerlink" title="第九组主题"></a>第九组主题</h1><ul><li>领域：合成孔径雷达图像变化检测</li><li>任务：孪生网络</li><li>目标：图像变化检测</li></ul><h1 id="小组成员"><a href="#小组成员" class="headerlink" title="小组成员"></a>小组成员</h1><ul><li>刘林</li><li>潘灿坤</li><li>雷雨诺<h3 id="组员照片"><a href="#组员照片" class="headerlink" title="组员照片"></a>组员照片</h3></li></ul><hr><h1 id="项目进度"><a href="#项目进度" class="headerlink" title="项目进度"></a>项目进度</h1><h2 id="第四周"><a href="#第四周" class="headerlink" title="第四周"></a>第四周</h2><ul><li>基础：3月7号到3月18号学习了pytorch和python，pytorch中重点学习了对图像变化检测有帮助的数据增强、数据处理、网络模块设置和网络模型保存与测试，而由于代码学习的必要性，对python进行了全面学习。</li><li>论文：3月19号到3月27号下载了3篇相关论文进行学习，其中包括基于PCAnet和基于卷积神经网络的SAR图像变化检测。论文中有很多专业词汇已经在一点点查询学习。接下来将在阅读更多论文的同时整理代码</li><li>代码：未开始</li><li>实验：未开始</li></ul><h2 id="第五周"><a href="#第五周" class="headerlink" title="第五周"></a>第五周</h2>]]></content>
       
       
       
@@ -125,7 +125,7 @@
       <link href="/2022/03/23/%E7%AC%AC%E4%BA%94%E7%BB%84%E9%A1%B9%E7%9B%AE/"/>
       <url>/2022/03/23/%E7%AC%AC%E4%BA%94%E7%BB%84%E9%A1%B9%E7%9B%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="第五组主题"><a href="#第五组主题" class="headerlink" title="第五组主题"></a>第五组主题</h1><ul><li>领域：时间序列异常检测</li><li>任务：transformer</li><li>目标：无监督条件下检测异常信号</li></ul><h1 id="小组成员"><a href="#小组成员" class="headerlink" title="小组成员"></a>小组成员</h1><ul><li>景蕊蕊</li><li>宋佳俞</li><li>庞鹤如</li><li>胡雅萱<h3 id="组员照片"><a href="#组员照片" class="headerlink" title="组员照片"></a>组员照片</h3></li></ul><hr><h1 id="项目进度"><a href="#项目进度" class="headerlink" title="项目进度"></a>项目进度</h1><h2 id="第四周"><a href="#第四周" class="headerlink" title="第四周"></a>第四周</h2><h2 id="第五周"><a href="#第五周" class="headerlink" title="第五周"></a>第五周</h2><h2 id="第六周"><a href="#第六周" class="headerlink" title="第六周"></a>第六周</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="第五组主题"><a href="#第五组主题" class="headerlink" title="第五组主题"></a>第五组主题</h1><ul><li>领域：时间序列异常检测</li><li>任务：transformer</li><li>目标：无监督条件下检测异常信号</li></ul><h1 id="小组成员"><a href="#小组成员" class="headerlink" title="小组成员"></a>小组成员</h1><ul><li>景蕊蕊</li><li>宋佳俞</li><li>庞鹤如</li><li>胡雅萱<h3 id="组员照片"><a href="#组员照片" class="headerlink" title="组员照片"></a>组员照片</h3></li></ul><hr><h1 id="项目进度"><a href="#项目进度" class="headerlink" title="项目进度"></a>项目进度</h1><h2 id="第四周"><a href="#第四周" class="headerlink" title="第四周"></a>第四周</h2><ul><li>基础：学习了pytorch和python，针对transform网络进行了针对性学习。对时间序列进行了了解性学习。</li><li>论文：对老师提供的论文进行阅读</li><li>代码：尝试运行，梳理脉络。</li><li>实验：未开始。</li></ul><h2 id="第五周"><a href="#第五周" class="headerlink" title="第五周"></a>第五周</h2><h2 id="第六周"><a href="#第六周" class="headerlink" title="第六周"></a>第六周</h2>]]></content>
       
       
       
